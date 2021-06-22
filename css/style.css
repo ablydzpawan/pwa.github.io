@@ -1,0 +1,17 @@
+ 
+body {
+    height: 100vh;
+    font-family: "Montserrat";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  h1 {
+    font-size: 5vw;
+    display: block;
+    text-align: center;
+  }
+  small {
+    font-size: 2vw;
+    display: block;
+  }
